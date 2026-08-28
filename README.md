@@ -1,16 +1,22 @@
-## Hi there 👋
+# My Cloud Engineering Journey
 
-<!--
-**musadamilanre2002-coder/musadamilanre2002-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Following the Learn to Cloud roadmap (learntocloud.guide) to become a Cloud Engineer
 
-Here are some ideas to get you started:
+## Phase 0 — Starting from Zero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I covered
+- Set up my dev environment: WSL2 + Ubuntu, VS Code (with WSL extension), Git
+- Learned Linux fundamentals: 
+- Practiced basic Bash scripting: 
+-learned about DNS, differences between IPv4 and IPv6 
+-learned about cloud computing meaning of laas Paas Saas aslo 
+i created an aws account which is the cloud server i will be using majorly for my journey now
+- Covered fundamentals on devs op: IP addressing, CI/CD subnetting, kubernetes, observerbility
+- Practiced Python fundamentals: and parsing JSON-like data
+
+## Tools I'm using
+- WSL2 + Ubuntu
+- VS Code
+- Git & GitHub
+
+## Connect
